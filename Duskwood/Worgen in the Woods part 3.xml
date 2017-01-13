@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Duskwood 59/80 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 59/80 -->
+			<X>-11160.08</X>
+			<Y>-772.4749</Y>
+			<Z>67.65882</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/80 -->
+			<X>-11163.3</X>
+			<Y>-787.886</Y>
+			<Z>70.24239</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/80 -->
+			<X>-11167.22</X>
+			<Y>-800.5792</Y>
+			<Z>71.3851</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/80 -->
+			<X>-11174.42</X>
+			<Y>-808.4924</Y>
+			<Z>73.40592</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/81 -->
+			<X>-11176.65</X>
+			<Y>-823.566</Y>
+			<Z>76.21405</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/80 -->
+			<X>-11171.31</X>
+			<Y>-846.5148</Y>
+			<Z>77.75307</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>24</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 61/81 -->
+			<X>-11183.13</X>
+			<Y>-829.0486</Y>
+			<Z>77.00655</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

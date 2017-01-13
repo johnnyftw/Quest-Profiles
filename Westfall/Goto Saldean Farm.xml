@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 60/19 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 60/19 -->
+			<X>-9853.443</X>
+			<Y>916.429</Y>
+			<Z>30.12737</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/20 -->
+			<X>-9870.974</X>
+			<Y>941.2986</Y>
+			<Z>30.99221</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 58/21 -->
+			<X>-9898.637</X>
+			<Y>983.1492</Y>
+			<Z>31.25321</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/22 -->
+			<X>-9935.502</X>
+			<Y>993.8833</Y>
+			<Z>31.64627</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/24 -->
+			<X>-9983.242</X>
+			<Y>998.7037</Y>
+			<Z>31.49054</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/26 -->
+			<X>-10012.18</X>
+			<Y>988.5901</Y>
+			<Z>32.19828</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/28 -->
+			<X>-10061.1</X>
+			<Y>997.4813</Y>
+			<Z>32.75319</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/29 -->
+			<X>-10091.2</X>
+			<Y>1008.336</Y>
+			<Z>34.78455</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/30 -->
+			<X>-10117.57</X>
+			<Y>1029.88</Y>
+			<Z>38.30637</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 56/30 -->
+			<X>-10121.83</X>
+			<Y>1050.236</Y>
+			<Z>37.48272</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>

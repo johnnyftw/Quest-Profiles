@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Desolace 64/89 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 64/89 -->
+			<X>-2223.468</X>
+			<Y>1335.552</Y>
+			<Z>70.40661</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/89 -->
+			<X>-2239.683</X>
+			<Y>1336.722</Y>
+			<Z>66.06406</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/90 -->
+			<X>-2247.803</X>
+			<Y>1335.652</Y>
+			<Z>63.67666</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/90 -->
+			<X>-2254.083</X>
+			<Y>1334.824</Y>
+			<Z>63.58826</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/90 -->
+			<X>-2261.662</X>
+			<Y>1333.826</Y>
+			<Z>63.58826</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 64/91 -->
+			<X>-2278.813</X>
+			<Y>1338.888</Y>
+			<Z>63.58826</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 63/92 -->
+			<X>-2320.319</X>
+			<Y>1369.546</Y>
+			<Z>63.58836</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>21</Faction>
+	</Factions>
+</Profile>

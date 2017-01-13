@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Wetlands 45/26 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 45/26 -->
+			<X>-2879.802</X>
+			<Y>-2264.098</Y>
+			<Z>26.29271</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/26 -->
+			<X>-2881.609</X>
+			<Y>-2232.122</Y>
+			<Z>25.54971</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/26 -->
+			<X>-2869.194</X>
+			<Y>-2218.766</Y>
+			<Z>25.71728</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/25 -->
+			<X>-2849.337</X>
+			<Y>-2204.938</Y>
+			<Z>30.98484</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/24 -->
+			<X>-2827.415</X>
+			<Y>-2191.226</Y>
+			<Z>32.38134</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/24 -->
+			<X>-2810.431</X>
+			<Y>-2198.586</Y>
+			<Z>35.03807</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/24 -->
+			<X>-2813.239</X>
+			<Y>-2231.961</Y>
+			<Z>42.24998</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/24 -->
+			<X>-2821.168</X>
+			<Y>-2253.658</Y>
+			<Z>44.91626</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/25 -->
+			<X>-2857.909</X>
+			<Y>-2266.324</Y>
+			<Z>34.5904</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/25 -->
+			<X>-2842.066</X>
+			<Y>-2220.68</Y>
+			<Z>28.81081</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/24 -->
+			<X>-2829.046</X>
+			<Y>-2224.167</Y>
+			<Z>22.01115</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/24 -->
+			<X>-2833.775</X>
+			<Y>-2235.833</Y>
+			<Z>16.31691</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>14</Faction>
+	</Factions>
+</Profile>

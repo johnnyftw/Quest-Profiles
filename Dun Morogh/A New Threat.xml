@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 23/73 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 23/73 -->
+			<X>-6303.432</X>
+			<Y>661.8658</Y>
+			<Z>385.5894</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/74 -->
+			<X>-6313.675</X>
+			<Y>623.2773</Y>
+			<Z>387.3202</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/76 -->
+			<X>-6389.569</X>
+			<Y>622.6943</Y>
+			<Z>387.0001</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/77 -->
+			<X>-6419.746</X>
+			<Y>621.9731</Y>
+			<Z>387.97</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 23/78 -->
+			<X>-6448.003</X>
+			<Y>661.664</Y>
+			<Z>387.4692</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 22/78 -->
+			<X>-6440.949</X>
+			<Y>717.0949</Y>
+			<Z>395.5732</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/76 -->
+			<X>-6382.734</X>
+			<Y>723.5467</Y>
+			<Z>388.3551</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/74 -->
+			<X>-6332.82</X>
+			<Y>742.689</Y>
+			<Z>386.1596</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 20/74 -->
+			<X>-6307.091</X>
+			<Y>774.8986</Y>
+			<Z>389.0562</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 21/73 -->
+			<X>-6289.897</X>
+			<Y>751.6866</Y>
+			<Z>387.0089</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 24/75 -->
+			<X>-6352.36</X>
+			<Y>581.9167</Y>
+			<Z>386.1165</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>36</Faction>
+	</Factions>
+</Profile>

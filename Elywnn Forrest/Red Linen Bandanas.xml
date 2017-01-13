@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Elwynn Forest 68/78 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 68/78 -->
+			<X>-9758.443</X>
+			<Y>-833.2972</Y>
+			<Z>39.25165</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/79 -->
+			<X>-9775.479</X>
+			<Y>-896.5101</Y>
+			<Z>39.67188</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/78 -->
+			<X>-9764.224</X>
+			<Y>-915.1534</Y>
+			<Z>39.61911</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/78 -->
+			<X>-9751.502</X>
+			<Y>-922.8361</Y>
+			<Z>39.21791</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/80 -->
+			<X>-9792.695</X>
+			<Y>-838.0569</Y>
+			<Z>39.36846</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 68/82 -->
+			<X>-9847.121</X>
+			<Y>-841.6976</Y>
+			<Z>37.46068</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 69/83 -->
+			<X>-9862.719</X>
+			<Y>-860.5393</Y>
+			<Z>35.11338</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 69/82 -->
+			<X>-9843.676</X>
+			<Y>-891.3881</Y>
+			<Z>38.29906</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>17</Faction>
+	</Factions>
+</Profile>

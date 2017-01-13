@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Darkshore 40/49 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 40/49 -->
+			<X>6166.991</X>
+			<Y>304.1748</Y>
+			<Z>26.30057</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/50 -->
+			<X>6135.24</X>
+			<Y>281.4525</Y>
+			<Z>24.80263</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/51 -->
+			<X>6083.402</X>
+			<Y>270.2733</Y>
+			<Z>19.92432</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/52 -->
+			<X>6056.087</X>
+			<Y>266.5106</Y>
+			<Z>21.29887</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/52 -->
+			<X>6028.286</X>
+			<Y>262.4571</Y>
+			<Z>23.75704</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/53 -->
+			<X>6007.64</X>
+			<Y>281.2611</Y>
+			<Z>22.40971</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/53 -->
+			<X>5999.314</X>
+			<Y>296.587</Y>
+			<Z>21.13658</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/53 -->
+			<X>5987.433</X>
+			<Y>316.6944</Y>
+			<Z>20.94018</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/53 -->
+			<X>5983.507</X>
+			<Y>323.131</Y>
+			<Z>21.65506</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/54 -->
+			<X>5971.266</X>
+			<Y>330.0406</Y>
+			<Z>21.83317</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/54 -->
+			<X>5962.446</X>
+			<Y>329.4352</Y>
+			<Z>21.14058</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/55 -->
+			<X>5926.794</X>
+			<Y>326.4048</Y>
+			<Z>21.13094</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/55 -->
+			<X>5892.74</X>
+			<Y>326.0477</Y>
+			<Z>20.96012</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/56 -->
+			<X>5876.026</X>
+			<Y>340.1552</Y>
+			<Z>21.01004</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 39/56 -->
+			<X>5868.718</X>
+			<Y>353.9034</Y>
+			<Z>20.85492</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>

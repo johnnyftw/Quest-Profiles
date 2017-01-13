@@ -1,0 +1,2594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Felwood 62/6 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 62/6 -->
+			<X>6866.535</X>
+			<Y>-1926.944</Y>
+			<Z>550.942</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/6 -->
+			<X>6866.535</X>
+			<Y>-1926.944</Y>
+			<Z>550.942</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/7 -->
+			<X>6855.332</X>
+			<Y>-1927.241</Y>
+			<Z>550.92</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/7 -->
+			<X>6832.707</X>
+			<Y>-1879.321</Y>
+			<Z>549.0663</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/7 -->
+			<X>6832.707</X>
+			<Y>-1879.321</Y>
+			<Z>549.0663</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/8 -->
+			<X>6805.837</X>
+			<Y>-1884.643</Y>
+			<Z>549.2234</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/8 -->
+			<X>6805.837</X>
+			<Y>-1884.643</Y>
+			<Z>549.2234</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/8 -->
+			<X>6794.038</X>
+			<Y>-1888.27</Y>
+			<Z>549.1195</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/9 -->
+			<X>6770.088</X>
+			<Y>-1882.173</Y>
+			<Z>550.3904</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/10 -->
+			<X>6732.441</X>
+			<Y>-1885.706</Y>
+			<Z>549.5235</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/10 -->
+			<X>6719.392</X>
+			<Y>-1900.965</Y>
+			<Z>547.2853</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/10 -->
+			<X>6716.736</X>
+			<Y>-1912.462</Y>
+			<Z>546.8216</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/10 -->
+			<X>6716.097</X>
+			<Y>-1913.95</Y>
+			<Z>546.8216</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/11 -->
+			<X>6702.391</X>
+			<Y>-1918.598</Y>
+			<Z>550.3933</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/11 -->
+			<X>6700.667</X>
+			<Y>-1918.896</Y>
+			<Z>550.9202</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/11 -->
+			<X>6699.48</X>
+			<Y>-1919.102</Y>
+			<Z>551.1688</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/11 -->
+			<X>6698.404</X>
+			<Y>-1919.289</Y>
+			<Z>551.3701</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6692.278</X>
+			<Y>-1926.254</Y>
+			<Z>548.494</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6691.532</X>
+			<Y>-1927.199</Y>
+			<Z>547.9544</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6681.528</X>
+			<Y>-1929.459</Y>
+			<Z>549.4166</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6680.334</X>
+			<Y>-1929.373</Y>
+			<Z>549.4459</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6679.133</X>
+			<Y>-1929.287</Y>
+			<Z>549.4871</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/11 -->
+			<X>6677.5</X>
+			<Y>-1929.169</Y>
+			<Z>549.0386</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>82</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 49/31 -->
+			<X>5935.47</X>
+			<Y>-1217.75</Y>
+			<Z>383.202</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5954.387</X>
+			<Y>-1220.102</Y>
+			<Z>380.838</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5956.573</X>
+			<Y>-1220.169</Y>
+			<Z>380.4442</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5958.751</X>
+			<Y>-1220.236</Y>
+			<Z>380.113</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5960.938</X>
+			<Y>-1220.303</Y>
+			<Z>379.8645</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5964.62</X>
+			<Y>-1220.416</Y>
+			<Z>379.5025</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5967.62</X>
+			<Y>-1220.508</Y>
+			<Z>380.1286</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5969.807</X>
+			<Y>-1220.575</Y>
+			<Z>379.1051</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5971.171</X>
+			<Y>-1220.617</Y>
+			<Z>379.0208</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5972.675</X>
+			<Y>-1220.663</Y>
+			<Z>378.9463</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/30 -->
+			<X>5974.853</X>
+			<Y>-1220.729</Y>
+			<Z>378.8382</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/29 -->
+			<X>5983.498</X>
+			<Y>-1224.566</Y>
+			<Z>378.1638</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/29 -->
+			<X>5984.862</X>
+			<Y>-1224.608</Y>
+			<Z>378.1215</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/29 -->
+			<X>5986.367</X>
+			<Y>-1224.654</Y>
+			<Z>378.0771</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/29 -->
+			<X>5987.862</X>
+			<Y>-1224.7</Y>
+			<Z>378.0148</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 49/29 -->
+			<X>6008.024</X>
+			<Y>-1232.364</Y>
+			<Z>377.1432</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6009.743</X>
+			<Y>-1233.717</Y>
+			<Z>377.2029</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6010.918</X>
+			<Y>-1234.643</Y>
+			<Z>377.2281</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6012.101</X>
+			<Y>-1235.573</Y>
+			<Z>377.2776</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6013.813</X>
+			<Y>-1236.921</Y>
+			<Z>377.4008</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6014.996</X>
+			<Y>-1237.852</Y>
+			<Z>377.5027</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6016.715</X>
+			<Y>-1239.205</Y>
+			<Z>377.6382</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6018.427</X>
+			<Y>-1240.552</Y>
+			<Z>377.8955</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6020.146</X>
+			<Y>-1241.905</Y>
+			<Z>378.1676</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/29 -->
+			<X>6021.218</X>
+			<Y>-1242.75</Y>
+			<Z>378.3651</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6022.931</X>
+			<Y>-1244.097</Y>
+			<Z>378.7219</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6024.113</X>
+			<Y>-1245.028</Y>
+			<Z>378.9327</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6025.832</X>
+			<Y>-1246.381</Y>
+			<Z>379.4047</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6027.544</X>
+			<Y>-1247.728</Y>
+			<Z>380.0684</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6029.263</X>
+			<Y>-1249.081</Y>
+			<Z>380.7749</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6030.439</X>
+			<Y>-1250.007</Y>
+			<Z>381.2017</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6032.158</X>
+			<Y>-1251.36</Y>
+			<Z>381.9039</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6033.34</X>
+			<Y>-1252.29</Y>
+			<Z>382.3622</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6035.052</X>
+			<Y>-1253.638</Y>
+			<Z>382.8904</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6036.125</X>
+			<Y>-1254.482</Y>
+			<Z>383.231</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6037.844</X>
+			<Y>-1255.835</Y>
+			<Z>383.5538</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6039.02</X>
+			<Y>-1256.76</Y>
+			<Z>383.6429</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6040.739</X>
+			<Y>-1258.113</Y>
+			<Z>383.7625</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6041.921</X>
+			<Y>-1259.044</Y>
+			<Z>383.8416</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6042.994</X>
+			<Y>-1259.889</Y>
+			<Z>383.9174</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6044.169</X>
+			<Y>-1260.814</Y>
+			<Z>384.0035</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6045.889</X>
+			<Y>-1262.167</Y>
+			<Z>384.132</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6047.06</X>
+			<Y>-1263.089</Y>
+			<Z>384.3316</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6048.779</X>
+			<Y>-1264.442</Y>
+			<Z>384.6732</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6049.852</X>
+			<Y>-1265.286</Y>
+			<Z>384.9112</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/28 -->
+			<X>6051.565</X>
+			<Y>-1266.635</Y>
+			<Z>385.2917</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/27 -->
+			<X>6074.109</X>
+			<Y>-1285.06</Y>
+			<Z>389.626</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/27 -->
+			<X>6075.242</X>
+			<Y>-1286.05</Y>
+			<Z>389.6196</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/27 -->
+			<X>6076.883</X>
+			<Y>-1287.483</Y>
+			<Z>389.5497</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/27 -->
+			<X>6077.912</X>
+			<Y>-1288.381</Y>
+			<Z>389.4286</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 50/27 -->
+			<X>6079.045</X>
+			<Y>-1289.371</Y>
+			<Z>389.2279</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/27 -->
+			<X>6095.133</X>
+			<Y>-1294.852</Y>
+			<Z>382.2206</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/27 -->
+			<X>6096.327</X>
+			<Y>-1295.512</Y>
+			<Z>381.3829</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6098.954</X>
+			<Y>-1296.964</Y>
+			<Z>379.5218</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6100.148</X>
+			<Y>-1297.625</Y>
+			<Z>378.592</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6102.063</X>
+			<Y>-1298.683</Y>
+			<Z>377.1564</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6103.38</X>
+			<Y>-1299.411</Y>
+			<Z>376.2783</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6105.287</X>
+			<Y>-1300.465</Y>
+			<Z>375.1155</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6107.112</X>
+			<Y>-1301.478</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6108.398</X>
+			<Y>-1302.189</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6109.69</X>
+			<Y>-1302.903</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6110.578</X>
+			<Y>-1303.394</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6111.865</X>
+			<Y>-1304.105</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6113.156</X>
+			<Y>-1304.819</Y>
+			<Z>374.1678</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6114.432</X>
+			<Y>-1305.526</Y>
+			<Z>374.2122</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6116.302</X>
+			<Y>-1306.56</Y>
+			<Z>374.7341</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6117.619</X>
+			<Y>-1307.288</Y>
+			<Z>375.1233</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6118.813</X>
+			<Y>-1307.949</Y>
+			<Z>375.4851</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6120.72</X>
+			<Y>-1309.003</Y>
+			<Z>376.0266</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/26 -->
+			<X>6122.037</X>
+			<Y>-1309.731</Y>
+			<Z>376.4061</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6138.253</X>
+			<Y>-1319.48</Y>
+			<Z>376.5778</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6139.415</X>
+			<Y>-1320.437</Y>
+			<Z>376.6214</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6141.097</X>
+			<Y>-1321.821</Y>
+			<Z>376.8056</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6142.786</X>
+			<Y>-1323.212</Y>
+			<Z>376.9916</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6145.001</X>
+			<Y>-1325.036</Y>
+			<Z>377.2866</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6146.684</X>
+			<Y>-1326.421</Y>
+			<Z>377.5747</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6148.372</X>
+			<Y>-1327.811</Y>
+			<Z>377.8578</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6150.054</X>
+			<Y>-1329.196</Y>
+			<Z>378.1608</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6151.743</X>
+			<Y>-1330.587</Y>
+			<Z>378.5818</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6153.432</X>
+			<Y>-1331.977</Y>
+			<Z>378.9985</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6155.111</X>
+			<Y>-1333.36</Y>
+			<Z>379.4124</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6156.8</X>
+			<Y>-1334.751</Y>
+			<Z>379.8336</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6157.956</X>
+			<Y>-1335.702</Y>
+			<Z>380.093</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6159.645</X>
+			<Y>-1337.092</Y>
+			<Z>380.4293</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 51/25 -->
+			<X>6161.333</X>
+			<Y>-1338.482</Y>
+			<Z>380.7234</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6146.884</X>
+			<Y>-1350.399</Y>
+			<Z>385.3833</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6144.904</X>
+			<Y>-1351.308</Y>
+			<Z>385.7626</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6142.916</X>
+			<Y>-1352.22</Y>
+			<Z>386.1223</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6141.556</X>
+			<Y>-1352.844</Y>
+			<Z>386.3445</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6139.568</X>
+			<Y>-1353.757</Y>
+			<Z>386.5467</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/25 -->
+			<X>6138.328</X>
+			<Y>-1354.327</Y>
+			<Z>386.6446</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6136.34</X>
+			<Y>-1355.239</Y>
+			<Z>386.7421</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6133.612</X>
+			<Y>-1356.492</Y>
+			<Z>386.9247</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6131.632</X>
+			<Y>-1357.401</Y>
+			<Z>387.0976</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6130.392</X>
+			<Y>-1357.97</Y>
+			<Z>387.2287</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6128.408</X>
+			<Y>-1358.881</Y>
+			<Z>387.4507</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6127.04</X>
+			<Y>-1359.509</Y>
+			<Z>387.6176</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6125.68</X>
+			<Y>-1360.133</Y>
+			<Z>387.7976</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6111.067</X>
+			<Y>-1371.266</Y>
+			<Z>391.7481</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6110.871</X>
+			<Y>-1372.75</Y>
+			<Z>392.3766</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6110.692</X>
+			<Y>-1374.103</Y>
+			<Z>392.9674</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6110.496</X>
+			<Y>-1375.595</Y>
+			<Z>393.5945</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6108.63</X>
+			<Y>-1395.728</Y>
+			<Z>401.7002</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6109.699</X>
+			<Y>-1397.626</Y>
+			<Z>402.393</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6110.437</X>
+			<Y>-1398.938</Y>
+			<Z>402.849</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6111.508</X>
+			<Y>-1400.839</Y>
+			<Z>403.5319</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6112.178</X>
+			<Y>-1402.028</Y>
+			<Z>403.9968</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6113.247</X>
+			<Y>-1403.927</Y>
+			<Z>404.7191</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 52/26 -->
+			<X>6114.32</X>
+			<Y>-1405.833</Y>
+			<Z>405.5153</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6115.389</X>
+			<Y>-1407.731</Y>
+			<Z>406.3289</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6116.462</X>
+			<Y>-1409.637</Y>
+			<Z>407.1923</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6117.536</X>
+			<Y>-1411.543</Y>
+			<Z>408.0749</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6118.673</X>
+			<Y>-1413.564</Y>
+			<Z>409.0505</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6119.343</X>
+			<Y>-1414.753</Y>
+			<Z>409.6486</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6120.412</X>
+			<Y>-1416.652</Y>
+			<Z>410.6174</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6121.485</X>
+			<Y>-1418.558</Y>
+			<Z>411.6389</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6122.559</X>
+			<Y>-1420.464</Y>
+			<Z>412.675</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6132.899</X>
+			<Y>-1441.361</Y>
+			<Z>423.1725</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6133.561</X>
+			<Y>-1442.703</Y>
+			<Z>423.8586</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6134.524</X>
+			<Y>-1444.658</Y>
+			<Z>424.8763</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6135.792</X>
+			<Y>-1447.232</Y>
+			<Z>426.1264</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/26 -->
+			<X>6136.458</X>
+			<Y>-1448.582</Y>
+			<Z>426.7632</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6137.421</X>
+			<Y>-1450.536</Y>
+			<Z>427.6779</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6138.388</X>
+			<Y>-1452.499</Y>
+			<Z>428.6228</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6139.351</X>
+			<Y>-1454.453</Y>
+			<Z>429.5944</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6140.318</X>
+			<Y>-1456.415</Y>
+			<Z>430.675</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6140.983</X>
+			<Y>-1457.765</Y>
+			<Z>431.4966</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6141.946</X>
+			<Y>-1459.719</Y>
+			<Z>432.5426</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6142.913</X>
+			<Y>-1461.682</Y>
+			<Z>433.5641</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 53/25 -->
+			<X>6143.517</X>
+			<Y>-1462.906</Y>
+			<Z>434.0782</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6144.479</X>
+			<Y>-1464.86</Y>
+			<Z>434.7234</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6157.833</X>
+			<Y>-1477.978</Y>
+			<Z>437.8168</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6159.464</X>
+			<Y>-1479.421</Y>
+			<Z>437.9258</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6161.719</X>
+			<Y>-1481.416</Y>
+			<Z>438.0139</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6163.351</X>
+			<Y>-1482.859</Y>
+			<Z>438.0756</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6164.479</X>
+			<Y>-1483.856</Y>
+			<Z>438.1186</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6166.622</X>
+			<Y>-1485.752</Y>
+			<Z>438.1798</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6168.26</X>
+			<Y>-1487.201</Y>
+			<Z>438.2858</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6170.41</X>
+			<Y>-1489.102</Y>
+			<Z>438.3921</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6172.042</X>
+			<Y>-1490.546</Y>
+			<Z>438.5152</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/25 -->
+			<X>6173.681</X>
+			<Y>-1491.995</Y>
+			<Z>438.6494</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6175.313</X>
+			<Y>-1493.438</Y>
+			<Z>438.7249</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6177.567</X>
+			<Y>-1495.432</Y>
+			<Z>438.8369</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6179.199</X>
+			<Y>-1496.876</Y>
+			<Z>438.89</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6181.349</X>
+			<Y>-1498.777</Y>
+			<Z>438.9317</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6183.493</X>
+			<Y>-1500.673</Y>
+			<Z>439.0015</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6185.131</X>
+			<Y>-1502.122</Y>
+			<Z>439.0441</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6186.868</X>
+			<Y>-1503.658</Y>
+			<Z>439.1073</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6189.018</X>
+			<Y>-1505.56</Y>
+			<Z>439.1869</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6190.65</X>
+			<Y>-1507.003</Y>
+			<Z>439.2434</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6192.289</X>
+			<Y>-1508.452</Y>
+			<Z>439.2859</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6194.438</X>
+			<Y>-1510.354</Y>
+			<Z>439.3399</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6196.07</X>
+			<Y>-1511.797</Y>
+			<Z>439.3694</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 54/24 -->
+			<X>6197.708</X>
+			<Y>-1513.246</Y>
+			<Z>439.383</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6222.712</X>
+			<Y>-1529.505</Y>
+			<Z>440.8108</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6224.524</X>
+			<Y>-1530.73</Y>
+			<Z>441.0479</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6226.336</X>
+			<Y>-1531.955</Y>
+			<Z>441.3014</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6228.141</X>
+			<Y>-1533.176</Y>
+			<Z>441.564</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6231.758</X>
+			<Y>-1535.622</Y>
+			<Z>442.0851</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6235.382</X>
+			<Y>-1538.072</Y>
+			<Z>442.5946</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6240.239</X>
+			<Y>-1541.356</Y>
+			<Z>443.2262</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6242.732</X>
+			<Y>-1543.042</Y>
+			<Z>443.5287</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6245.103</X>
+			<Y>-1544.645</Y>
+			<Z>443.853</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6247.48</X>
+			<Y>-1546.252</Y>
+			<Z>444.27</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/23 -->
+			<X>6249.966</X>
+			<Y>-1547.933</Y>
+			<Z>444.7657</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6252.909</X>
+			<Y>-1549.923</Y>
+			<Z>445.6862</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6255.395</X>
+			<Y>-1551.605</Y>
+			<Z>446.726</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6258.447</X>
+			<Y>-1553.668</Y>
+			<Z>448.2656</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6260.259</X>
+			<Y>-1554.893</Y>
+			<Z>449.1275</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6263.194</X>
+			<Y>-1556.878</Y>
+			<Z>450.4936</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6265.007</X>
+			<Y>-1558.104</Y>
+			<Z>451.1653</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6267.491</X>
+			<Y>-1559.784</Y>
+			<Z>452.0569</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6269.303</X>
+			<Y>-1561.009</Y>
+			<Z>452.626</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6271.105</X>
+			<Y>-1562.227</Y>
+			<Z>453.1715</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 55/22 -->
+			<X>6272.917</X>
+			<Y>-1563.453</Y>
+			<Z>453.8003</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6303.094</X>
+			<Y>-1582.143</Y>
+			<Z>453.2545</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6304.366</X>
+			<Y>-1582.638</Y>
+			<Z>452.6727</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6306.527</X>
+			<Y>-1583.478</Y>
+			<Z>452.3586</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6308.566</X>
+			<Y>-1584.27</Y>
+			<Z>452.1497</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6310.597</X>
+			<Y>-1585.06</Y>
+			<Z>452.1938</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6311.865</X>
+			<Y>-1585.552</Y>
+			<Z>452.3226</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6313.902</X>
+			<Y>-1586.344</Y>
+			<Z>452.553</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/21 -->
+			<X>6315.305</X>
+			<Y>-1586.889</Y>
+			<Z>452.7005</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6337.413</X>
+			<Y>-1606.828</Y>
+			<Z>456.3943</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6338.699</X>
+			<Y>-1608.586</Y>
+			<Z>456.7648</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6340.393</X>
+			<Y>-1610.903</Y>
+			<Z>457.3904</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6341.679</X>
+			<Y>-1612.661</Y>
+			<Z>457.867</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6342.567</X>
+			<Y>-1613.876</Y>
+			<Z>458.2735</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6343.858</X>
+			<Y>-1615.641</Y>
+			<Z>458.8825</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6344.664</X>
+			<Y>-1616.743</Y>
+			<Z>459.2737</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6345.951</X>
+			<Y>-1618.502</Y>
+			<Z>459.9053</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6347.319</X>
+			<Y>-1620.373</Y>
+			<Z>460.804</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6348.528</X>
+			<Y>-1622.026</Y>
+			<Z>461.6072</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6358.529</X>
+			<Y>-1629.033</Y>
+			<Z>470.6383</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6360.449</X>
+			<Y>-1630.08</Y>
+			<Z>471.7508</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6362.361</X>
+			<Y>-1631.124</Y>
+			<Z>472.6834</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6364.282</X>
+			<Y>-1632.172</Y>
+			<Z>473.394</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/20 -->
+			<X>6366.194</X>
+			<Y>-1633.215</Y>
+			<Z>473.9602</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/19 -->
+			<X>6368.237</X>
+			<Y>-1634.33</Y>
+			<Z>474.5952</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 56/19 -->
+			<X>6369.436</X>
+			<Y>-1634.984</Y>
+			<Z>474.9735</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/19 -->
+			<X>6398.722</X>
+			<Y>-1655.238</Y>
+			<Z>483.1339</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/19 -->
+			<X>6400.389</X>
+			<Y>-1656.641</Y>
+			<Z>483.9941</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/19 -->
+			<X>6402.062</X>
+			<Y>-1658.05</Y>
+			<Z>484.8877</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/19 -->
+			<X>6403.735</X>
+			<Y>-1659.459</Y>
+			<Z>485.7713</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6405.402</X>
+			<Y>-1660.862</Y>
+			<Z>486.6876</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6406.554</X>
+			<Y>-1661.832</Y>
+			<Z>487.3039</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6437.364</X>
+			<Y>-1689.248</Y>
+			<Z>501.669</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6439.316</X>
+			<Y>-1690.234</Y>
+			<Z>502.1014</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6440.66</X>
+			<Y>-1690.914</Y>
+			<Z>502.3789</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 57/18 -->
+			<X>6441.995</X>
+			<Y>-1691.589</Y>
+			<Z>502.6289</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6481.967</X>
+			<Y>-1718.056</Y>
+			<Z>509.2225</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6482.887</X>
+			<Y>-1719.247</Y>
+			<Z>509.4842</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6483.807</X>
+			<Y>-1720.438</Y>
+			<Z>509.7401</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6484.641</X>
+			<Y>-1721.519</Y>
+			<Z>509.9096</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6486.057</X>
+			<Y>-1723.354</Y>
+			<Z>510.0949</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6501.185</X>
+			<Y>-1748.026</Y>
+			<Z>512.0524</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6501.835</X>
+			<Y>-1749.374</Y>
+			<Z>512.1574</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 58/16 -->
+			<X>6502.488</X>
+			<Y>-1750.729</Y>
+			<Z>512.244</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6503.081</X>
+			<Y>-1751.959</Y>
+			<Z>512.3162</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6503.731</X>
+			<Y>-1753.307</Y>
+			<Z>512.3854</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6504.681</X>
+			<Y>-1755.277</Y>
+			<Z>512.513</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6511.077</X>
+			<Y>-1776.076</Y>
+			<Z>516.0436</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6511.583</X>
+			<Y>-1778.204</Y>
+			<Z>516.5131</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6511.929</X>
+			<Y>-1779.66</Y>
+			<Z>516.8162</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6512.434</X>
+			<Y>-1781.788</Y>
+			<Z>517.2338</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6512.78</X>
+			<Y>-1783.244</Y>
+			<Z>517.5266</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6513.286</X>
+			<Y>-1785.372</Y>
+			<Z>517.9504</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6513.792</X>
+			<Y>-1787.5</Y>
+			<Z>518.3914</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6514.295</X>
+			<Y>-1789.62</Y>
+			<Z>518.7634</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6514.801</X>
+			<Y>-1791.748</Y>
+			<Z>519.1896</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6515.304</X>
+			<Y>-1793.868</Y>
+			<Z>519.5341</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6515.809</X>
+			<Y>-1795.991</Y>
+			<Z>519.9085</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6516.472</X>
+			<Y>-1798.784</Y>
+			<Z>520.4094</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6516.976</X>
+			<Y>-1800.903</Y>
+			<Z>520.8337</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6517.481</X>
+			<Y>-1803.031</Y>
+			<Z>521.3018</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6517.826</X>
+			<Y>-1804.482</Y>
+			<Z>521.6197</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 59/16 -->
+			<X>6518.49</X>
+			<Y>-1807.274</Y>
+			<Z>522.2355</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/16 -->
+			<X>6518.995</X>
+			<Y>-1809.402</Y>
+			<Z>522.6965</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/16 -->
+			<X>6519.499</X>
+			<Y>-1811.522</Y>
+			<Z>523.1582</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6520.004</X>
+			<Y>-1813.65</Y>
+			<Z>523.5989</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6520.351</X>
+			<Y>-1815.106</Y>
+			<Z>523.8798</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6520.856</X>
+			<Y>-1817.234</Y>
+			<Z>524.2853</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6529.181</X>
+			<Y>-1846.589</Y>
+			<Z>529.9044</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6529.934</X>
+			<Y>-1848.643</Y>
+			<Z>530.379</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6530.686</X>
+			<Y>-1850.697</Y>
+			<Z>530.8641</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6531.718</X>
+			<Y>-1853.516</Y>
+			<Z>531.5486</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6532.232</X>
+			<Y>-1854.921</Y>
+			<Z>531.8973</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6532.985</X>
+			<Y>-1856.975</Y>
+			<Z>532.397</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6533.737</X>
+			<Y>-1859.029</Y>
+			<Z>532.8939</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6534.486</X>
+			<Y>-1861.074</Y>
+			<Z>533.3705</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6535.239</X>
+			<Y>-1863.129</Y>
+			<Z>533.8243</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 60/15 -->
+			<X>6535.988</X>
+			<Y>-1865.174</Y>
+			<Z>534.2675</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6536.74</X>
+			<Y>-1867.229</Y>
+			<Z>534.7189</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6537.493</X>
+			<Y>-1869.283</Y>
+			<Z>535.1628</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6538.242</X>
+			<Y>-1871.328</Y>
+			<Z>535.6082</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6550.99</X>
+			<Y>-1886.582</Y>
+			<Z>539.8107</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6552.648</X>
+			<Y>-1887.995</Y>
+			<Z>540.3101</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6554.314</X>
+			<Y>-1889.413</Y>
+			<Z>540.7268</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6555.451</X>
+			<Y>-1890.381</Y>
+			<Z>541.0423</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/15 -->
+			<X>6557.117</X>
+			<Y>-1891.799</Y>
+			<Z>542.0486</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6558.782</X>
+			<Y>-1893.217</Y>
+			<Z>542.3786</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6560.441</X>
+			<Y>-1894.629</Y>
+			<Z>542.3826</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6562.107</X>
+			<Y>-1896.047</Y>
+			<Z>542.4366</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6563.253</X>
+			<Y>-1897.023</Y>
+			<Z>542.5607</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6564.912</X>
+			<Y>-1898.435</Y>
+			<Z>542.707</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6586.579</X>
+			<Y>-1909.686</Y>
+			<Z>544.0216</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6589.297</X>
+			<Y>-1910.959</Y>
+			<Z>544.1595</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6591.277</X>
+			<Y>-1911.888</Y>
+			<Z>544.3582</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6593.25</X>
+			<Y>-1912.812</Y>
+			<Z>544.6008</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/14 -->
+			<X>6595.231</X>
+			<Y>-1913.741</Y>
+			<Z>544.8452</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6597.204</X>
+			<Y>-1914.665</Y>
+			<Z>545.1396</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6599.185</X>
+			<Y>-1915.593</Y>
+			<Z>545.4561</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6601.166</X>
+			<Y>-1916.522</Y>
+			<Z>545.7892</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6603.138</X>
+			<Y>-1917.446</Y>
+			<Z>546.1157</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6605.737</X>
+			<Y>-1918.664</Y>
+			<Z>546.5305</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/13 -->
+			<X>6607.71</X>
+			<Y>-1919.589</Y>
+			<Z>546.8367</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/13 -->
+			<X>6629.399</X>
+			<Y>-1925.805</Y>
+			<Z>547.8789</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/13 -->
+			<X>6631.476</X>
+			<Y>-1926.494</Y>
+			<Z>547.744</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/13 -->
+			<X>6633.543</X>
+			<Y>-1927.18</Y>
+			<Z>547.5957</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/13 -->
+			<X>6634.972</X>
+			<Y>-1927.654</Y>
+			<Z>547.4669</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/12 -->
+			<X>6637.04</X>
+			<Y>-1928.34</Y>
+			<Z>547.301</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6687.262</X>
+			<Y>-1932.956</Y>
+			<Z>548.6475</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6688.059</X>
+			<Y>-1933.104</Y>
+			<Z>547.739</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6703.649</X>
+			<Y>-1931.972</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6704.555</X>
+			<Y>-1929.98</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6705.456</X>
+			<Y>-1927.997</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/11 -->
+			<X>6706.361</X>
+			<Y>-1926.005</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/11 -->
+			<X>6707.602</X>
+			<Y>-1923.273</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/11 -->
+			<X>6708.507</X>
+			<Y>-1921.281</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/11 -->
+			<X>6709.408</X>
+			<Y>-1919.297</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/11 -->
+			<X>6710.313</X>
+			<Y>-1917.306</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/11 -->
+			<X>6711.5</X>
+			<Y>-1914.693</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6712.12</X>
+			<Y>-1913.331</Y>
+			<Z>547.7386</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6725.193</X>
+			<Y>-1895.222</Y>
+			<Z>547.9409</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6727.243</X>
+			<Y>-1894.456</Y>
+			<Z>548.0927</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6729.292</X>
+			<Y>-1893.691</Y>
+			<Z>548.2532</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6731.972</X>
+			<Y>-1892.69</Y>
+			<Z>548.6125</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6734.021</X>
+			<Y>-1891.925</Y>
+			<Z>548.9057</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6736.702</X>
+			<Y>-1890.924</Y>
+			<Z>549.2774</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6738.882</X>
+			<Y>-1890.11</Y>
+			<Z>549.3991</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6740.924</X>
+			<Y>-1889.348</Y>
+			<Z>549.5167</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6743.612</X>
+			<Y>-1888.344</Y>
+			<Z>549.6657</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6745.653</X>
+			<Y>-1887.582</Y>
+			<Z>549.7766</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6747.063</X>
+			<Y>-1887.056</Y>
+			<Z>549.8559</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/10 -->
+			<X>6749.752</X>
+			<Y>-1886.052</Y>
+			<Z>550.0068</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6751.793</X>
+			<Y>-1885.29</Y>
+			<Z>550.107</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6754.482</X>
+			<Y>-1884.286</Y>
+			<Z>550.6594</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6756.523</X>
+			<Y>-1883.524</Y>
+			<Z>550.7949</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6758.572</X>
+			<Y>-1882.758</Y>
+			<Z>550.9026</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6760.622</X>
+			<Y>-1881.993</Y>
+			<Z>550.9185</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6762.794</X>
+			<Y>-1881.182</Y>
+			<Z>550.9147</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6764.712</X>
+			<Y>-1880.466</Y>
+			<Z>550.9114</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6782.593</X>
+			<Y>-1880.369</Y>
+			<Z>549.8372</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6785.462</X>
+			<Y>-1880.455</Y>
+			<Z>549.9325</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/9 -->
+			<X>6787.648</X>
+			<Y>-1880.52</Y>
+			<Z>550.0438</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6789.826</X>
+			<Y>-1880.585</Y>
+			<Z>550.1772</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6792.826</X>
+			<Y>-1880.675</Y>
+			<Z>550.3344</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6795.013</X>
+			<Y>-1880.74</Y>
+			<Z>550.4333</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6797.199</X>
+			<Y>-1880.805</Y>
+			<Z>550.4418</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6800.059</X>
+			<Y>-1880.891</Y>
+			<Z>550.3443</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6802.246</X>
+			<Y>-1880.956</Y>
+			<Z>550.1925</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6805.246</X>
+			<Y>-1881.046</Y>
+			<Z>549.912</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6808.114</X>
+			<Y>-1881.131</Y>
+			<Z>549.5759</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6810.292</X>
+			<Y>-1881.196</Y>
+			<Z>549.2593</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6811.796</X>
+			<Y>-1881.241</Y>
+			<Z>549.012</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6814.656</X>
+			<Y>-1881.327</Y>
+			<Z>548.467</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6816.843</X>
+			<Y>-1881.392</Y>
+			<Z>547.9919</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6819.029</X>
+			<Y>-1881.457</Y>
+			<Z>547.7388</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6821.889</X>
+			<Y>-1881.542</Y>
+			<Z>547.7388</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6823.394</X>
+			<Y>-1881.587</Y>
+			<Z>547.7388</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/8 -->
+			<X>6824.889</X>
+			<Y>-1881.632</Y>
+			<Z>547.7388</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6840.389</X>
+			<Y>-1894.881</Y>
+			<Z>548.6098</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6841.445</X>
+			<Y>-1896.792</Y>
+			<Z>549.0063</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6842.503</X>
+			<Y>-1898.706</Y>
+			<Z>549.3495</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6843.558</X>
+			<Y>-1900.613</Y>
+			<Z>549.7345</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6844.616</X>
+			<Y>-1902.528</Y>
+			<Z>550.1306</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6845.67</X>
+			<Y>-1904.434</Y>
+			<Z>550.2687</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6846.729</X>
+			<Y>-1906.349</Y>
+			<Z>550.3624</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6847.787</X>
+			<Y>-1908.263</Y>
+			<Z>550.4417</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6848.841</X>
+			<Y>-1910.17</Y>
+			<Z>550.6848</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6850.29</X>
+			<Y>-1912.79</Y>
+			<Z>550.8972</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6851.348</X>
+			<Y>-1914.705</Y>
+			<Z>550.9154</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6852.736</X>
+			<Y>-1917.217</Y>
+			<Z>550.9188</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6853.791</X>
+			<Y>-1919.123</Y>
+			<Z>550.9188</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/7 -->
+			<X>6854.849</X>
+			<Y>-1921.038</Y>
+			<Z>550.9188</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 62/7 -->
+			<X>6834.822</X>
+			<Y>-1936.069</Y>
+			<Z>548.1359</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

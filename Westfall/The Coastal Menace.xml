@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 31/84 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 31/84 -->
+			<X>-11360.67</X>
+			<Y>1926.649</Y>
+			<Z>-0.9278494</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 31/83 -->
+			<X>-11350.29</X>
+			<Y>1917.053</Y>
+			<Z>0.588352</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 33/83 -->
+			<X>-11337.4</X>
+			<Y>1861.044</Y>
+			<Z>9.768808</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/83 -->
+			<X>-11357.93</X>
+			<Y>1812.417</Y>
+			<Z>7.857751</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 34/83 -->
+			<X>-11357.93</X>
+			<Y>1812.417</Y>
+			<Z>7.857751</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 31/82 -->
+			<X>-11321.87</X>
+			<Y>1903.401</Y>
+			<Z>10.42175</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 30/81 -->
+			<X>-11306.98</X>
+			<Y>1932.019</Y>
+			<Z>8.909209</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 30/80 -->
+			<X>-11272.54</X>
+			<Y>1958.323</Y>
+			<Z>10.92591</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 30/79 -->
+			<X>-11252.53</X>
+			<Y>1966.228</Y>
+			<Z>11.10417</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>18</Faction>
+		<Faction>7</Faction>
+	</Factions>
+</Profile>

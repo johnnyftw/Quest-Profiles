@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Feralas 49/32 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 49/32 -->
+			<X>-3873.977</X>
+			<Y>1980.331</Y>
+			<Z>72.16559</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/32 -->
+			<X>-3870.912</X>
+			<Y>1977.181</Y>
+			<Z>70.96187</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/32 -->
+			<X>-3853.183</X>
+			<Y>1976.321</Y>
+			<Z>68.58572</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/31 -->
+			<X>-3837.041</X>
+			<Y>1974.987</Y>
+			<Z>70.00916</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/31 -->
+			<X>-3821.624</X>
+			<Y>1973.713</Y>
+			<Z>70.33709</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/31 -->
+			<X>-3806.379</X>
+			<Y>1972.453</Y>
+			<Z>69.06256</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/30 -->
+			<X>-3801.528</X>
+			<Y>1972.052</Y>
+			<Z>69.16026</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/30 -->
+			<X>-3785.332</X>
+			<Y>1945.453</Y>
+			<Z>66.40342</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/30 -->
+			<X>-3777.711</X>
+			<Y>1939.73</Y>
+			<Z>67.04108</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/29 -->
+			<X>-3739.899</X>
+			<Y>1936.066</Y>
+			<Z>71.92548</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/29 -->
+			<X>-3720.333</X>
+			<Y>1965.293</Y>
+			<Z>69.17084</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/29 -->
+			<X>-3715.853</X>
+			<Y>1972.896</Y>
+			<Z>69.72024</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>72</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 49/32 -->
+			<X>-3873.977</X>
+			<Y>1980.331</Y>
+			<Z>72.16559</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

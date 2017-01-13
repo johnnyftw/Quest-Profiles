@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 70/56 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 70/56 -->
+			<X>-5738.711</X>
+			<Y>-1671.161</Y>
+			<Z>360.5047</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/56 -->
+			<X>-5736.602</X>
+			<Y>-1679.128</Y>
+			<Z>361.7071</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/56 -->
+			<X>-5727.078</X>
+			<Y>-1682.575</Y>
+			<Z>361.7185</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/56 -->
+			<X>-5723.13</X>
+			<Y>-1683.47</Y>
+			<Z>361.6219</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/55 -->
+			<X>-5710.798</X>
+			<Y>-1688.616</Y>
+			<Z>361.388</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 70/54 -->
+			<X>-5655.564</X>
+			<Y>-1685.311</Y>
+			<Z>360.794</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>

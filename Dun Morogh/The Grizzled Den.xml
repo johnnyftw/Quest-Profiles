@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 46/55 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 46/55 -->
+			<X>-5644.424</X>
+			<Y>-462.6155</Y>
+			<Z>396.809</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/53 -->
+			<X>-5620.308</X>
+			<Y>-418.4149</Y>
+			<Z>396.0352</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/53 -->
+			<X>-5620.668</X>
+			<Y>-385.3342</Y>
+			<Z>398.2071</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/53 -->
+			<X>-5642.343</X>
+			<Y>-354.7288</Y>
+			<Z>386.3372</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/54 -->
+			<X>-5653.668</X>
+			<Y>-342.3014</Y>
+			<Z>379.4404</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/54 -->
+			<X>-5656.581</X>
+			<Y>-332.5643</Y>
+			<Z>376.0893</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 43/54 -->
+			<X>-5656.581</X>
+			<Y>-332.5643</Y>
+			<Z>376.0893</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>24</Faction>
+	</Factions>
+</Profile>

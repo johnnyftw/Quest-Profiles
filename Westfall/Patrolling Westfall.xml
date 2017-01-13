@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Westfall 45/16 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 45/16 -->
+			<X>-9781.71</X>
+			<Y>1438.073</Y>
+			<Z>43.60835</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/15 -->
+			<X>-9771.154</X>
+			<Y>1401.799</Y>
+			<Z>41.13153</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/16 -->
+			<X>-9779.938</X>
+			<Y>1357.224</Y>
+			<Z>41.14705</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/16 -->
+			<X>-9774.691</X>
+			<Y>1228.1</Y>
+			<Z>41.34008</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 52/17 -->
+			<X>-9797.966</X>
+			<Y>1161.834</Y>
+			<Z>41.3969</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>20</Faction>
+		<Faction>38</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 45/17 -->
+			<X>-9801.408</X>
+			<Y>1423.513</Y>
+			<Z>42.96199</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Hillsbrad Foothills 50/52 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 50/52 -->
+			<X>-709.4929</X>
+			<Y>-558.6874</Y>
+			<Z>22.12653</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/51 -->
+			<X>-692.3528</X>
+			<Y>-568.5472</Y>
+			<Z>24.46014</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/50 -->
+			<X>-676.6673</X>
+			<Y>-566.5051</Y>
+			<Z>25.32387</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/49 -->
+			<X>-645.4363</X>
+			<Y>-560.637</Y>
+			<Z>26.21939</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/48 -->
+			<X>-624.6466</X>
+			<Y>-568.957</Y>
+			<Z>28.27962</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/47 -->
+			<X>-609.1666</X>
+			<Y>-579.1378</Y>
+			<Z>31.35648</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/46 -->
+			<X>-585.6686</X>
+			<Y>-576.274</Y>
+			<Z>32.73589</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/45 -->
+			<X>-563.8857</X>
+			<Y>-568.3768</Y>
+			<Z>33.4619</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/43 -->
+			<X>-527.7932</X>
+			<Y>-559.0598</Y>
+			<Z>38.87554</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/42 -->
+			<X>-504.4969</X>
+			<Y>-564.1813</Y>
+			<Z>42.68516</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/40 -->
+			<X>-460.067</X>
+			<Y>-577.2735</Y>
+			<Z>50.09871</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/39 -->
+			<X>-440.721</X>
+			<Y>-574.7613</Y>
+			<Z>53.16976</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/37 -->
+			<X>-394.5032</X>
+			<Y>-537.9659</Y>
+			<Z>51.69527</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/34 -->
+			<X>-339.5295</X>
+			<Y>-517.1763</Y>
+			<Z>53.67822</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 49/33 -->
+			<X>-310.5415</X>
+			<Y>-506.5235</Y>
+			<Z>55.8587</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/32 -->
+			<X>-285.0937</X>
+			<Y>-496.334</Y>
+			<Z>59.64894</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/31 -->
+			<X>-263.1892</X>
+			<Y>-486.7749</Y>
+			<Z>62.47038</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/28 -->
+			<X>-214.2069</X>
+			<Y>-467.5071</Y>
+			<Z>68.40996</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/26 -->
+			<X>-170.4356</X>
+			<Y>-448.6867</Y>
+			<Z>76.29803</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/25 -->
+			<X>-137.4966</X>
+			<Y>-427.4238</Y>
+			<Z>84.81384</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/24 -->
+			<X>-118.2088</X>
+			<Y>-417.0363</Y>
+			<Z>92.01603</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/22 -->
+			<X>-82.7435</X>
+			<Y>-414.5861</Y>
+			<Z>100.1068</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 42/82 -->
+			<X>-47.58271</X>
+			<Y>-400.4109</Y>
+			<Z>110.0193</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/82 -->
+			<X>-36.53902</X>
+			<Y>-390.0087</Y>
+			<Z>114.6487</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/81 -->
+			<X>-23.95653</X>
+			<Y>-373.3228</Y>
+			<Z>120.3829</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/81 -->
+			<X>-15.41497</X>
+			<Y>-358.0204</Y>
+			<Z>126.5322</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/80 -->
+			<X>-7.255889</X>
+			<Y>-342.2084</Y>
+			<Z>130.9386</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>14</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 49/35 -->
+			<X>-347.367</X>
+			<Y>-519.5533</Y>
+			<Z>53.52144</Z>
+			<Type>Waypoint</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Stranglethorn Vale 40/43 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 40/43 -->
+			<X>-13011.79</X>
+			<Y>-372.3469</Y>
+			<Z>23.21665</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/43 -->
+			<X>-13019.88</X>
+			<Y>-389.2652</Y>
+			<Z>30.85659</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/43 -->
+			<X>-13021.39</X>
+			<Y>-391.5197</Y>
+			<Z>32.31757</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 41/43 -->
+			<X>-13025.89</X>
+			<Y>-396.0185</Y>
+			<Z>36.00457</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/43 -->
+			<X>-13024.39</X>
+			<Y>-394.9383</Y>
+			<Z>34.88597</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>47</Faction>
+	</Factions>
+</Profile>

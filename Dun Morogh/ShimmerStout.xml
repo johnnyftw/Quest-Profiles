@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Dun Morogh 39/42 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 39/42 -->
+			<X>-5269.511</X>
+			<Y>-159.4902</Y>
+			<Z>439.605</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 40/43 -->
+			<X>-5301.659</X>
+			<Y>-199.9495</Y>
+			<Z>440.4585</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+</Profile>

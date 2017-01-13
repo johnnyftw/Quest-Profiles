@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Ashenvale 34/48 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 34/48 -->
+			<X>2810.456</X>
+			<Y>-268.5959</Y>
+			<Z>106.7404</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 31/46 -->
+			<X>2868.609</X>
+			<Y>-120.0197</Y>
+			<Z>101.163</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 30/46 -->
+			<X>2867.415</X>
+			<Y>-87.03001</Y>
+			<Z>101.1644</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/48 -->
+			<X>2800.397</X>
+			<Y>-8.056353</Y>
+			<Z>95.09673</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/48 -->
+			<X>2793.786</X>
+			<Y>-9.938684</Y>
+			<Z>94.08789</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/49 -->
+			<X>2757.47</X>
+			<Y>-18.80335</Y>
+			<Z>92.24226</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 30/50 -->
+			<X>2713.697</X>
+			<Y>-32.32467</Y>
+			<Z>95.5574</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/51 -->
+			<X>2686.921</X>
+			<Y>-28.43191</Y>
+			<Z>99.48668</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/52 -->
+			<X>2666.798</X>
+			<Y>-10.63612</Y>
+			<Z>105.4413</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/52 -->
+			<X>2653.382</X>
+			<Y>7.395319</Y>
+			<Z>105.8553</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/52 -->
+			<X>2639.114</X>
+			<Y>9.311014</Y>
+			<Z>105.5321</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/53 -->
+			<X>2624.715</X>
+			<Y>5.376537</Y>
+			<Z>98.18985</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/54 -->
+			<X>2575.823</X>
+			<Y>10.56038</Y>
+			<Z>89.22294</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 29/55 -->
+			<X>2521.261</X>
+			<Y>16.87738</Y>
+			<Z>86.15627</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 28/57 -->
+			<X>2449.229</X>
+			<Y>44.89081</Y>
+			<Z>88.47498</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 28/58 -->
+			<X>2414.992</X>
+			<Y>80.48665</Y>
+			<Z>93.98182</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>22</Faction>
+	</Factions>
+</Profile>

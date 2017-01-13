@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Duskwood 80/67 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 80/67 -->
+			<X>-10931.17</X>
+			<Y>-1333.799</Y>
+			<Z>52.21355</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 80/69 -->
+			<X>-10960.56</X>
+			<Y>-1340.798</Y>
+			<Z>52.26168</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 80/70 -->
+			<X>-10981.33</X>
+			<Y>-1332.453</Y>
+			<Z>51.95452</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 79/71 -->
+			<X>-11001.22</X>
+			<Y>-1320.824</Y>
+			<Z>52.39438</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 80/71 -->
+			<X>-11008.44</X>
+			<Y>-1329.177</Y>
+			<Z>52.38195</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 79/71 -->
+			<X>-11008.14</X>
+			<Y>-1317.302</Y>
+			<Z>52.95943</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 80/72 -->
+			<X>-11023.01</X>
+			<Y>-1331.912</Y>
+			<Z>53.08099</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 80/73 -->
+			<X>-11034.42</X>
+			<Y>-1336.045</Y>
+			<Z>53.61369</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 79/71 -->
+			<X>-11004.49</X>
+			<Y>-1300.041</Y>
+			<Z>53.66496</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 78/70 -->
+			<X>-10979.35</X>
+			<Y>-1281.103</Y>
+			<Z>52.90281</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 77/69 -->
+			<X>-10962.03</X>
+			<Y>-1268.341</Y>
+			<Z>52.33629</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>21</Faction>
+	</Factions>
+</Profile>
